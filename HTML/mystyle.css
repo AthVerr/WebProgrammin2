@@ -1,0 +1,85 @@
+ body,
+    html {
+		margin:0;
+		padding:0;
+		color:#000;
+		background:#FFCCCC;
+         }
+
+
+    table.header
+                         {
+	                  background:#FFFFFF;
+	                  width:80%
+                        }
+
+    #header {
+		padding:0px;
+		height: 100px;
+		background: #FFFFFF url(Aegean.jpg) no-repeat;
+            }
+
+    h1 {
+		color: black;
+               font-size= 16pt
+              font-style: italic
+       }
+
+
+ 
+
+
+    #main {
+		float:right;
+		width:720px;
+		padding:10px;
+		background:#9c8;
+         }
+
+
+            
+    #footer {
+		clear:both;
+		padding:5px 10px;
+		background:#cc9;
+ 		text-align: center;
+            }
+    
+	
+     font.menu{
+		font-family: Times New Roman;
+		font-size: 20px;
+		color: #FF0000;
+	       }
+
+
+     table.mainmenu{
+		font-family: Times New Roman;
+		font-size: 20px;
+		color: black;
+              font-weight:bold;
+                background:#FFFFCC ;
+	           }
+
+	table.links{
+		font-family: Times New Roman;
+		font-size: 20px;
+		color: #FF0000;
+                 font-weight:bold;
+                background:#FF0000 ;
+	           }
+    
+
+    table.information{
+		     font-family: Times New Roman;
+		     font-size: 12px;
+		     color: #FF0000;
+	            }
+
+	font.menu-delimiter{
+		font-family:Times New Roman;
+		font-size: 12px;
+		color: #FF0000;
+	}
+	
+	
